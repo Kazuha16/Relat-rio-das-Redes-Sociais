@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap');
 
 :root{
-    --azul-claro: #7ac4f5;
-    --branco: #fff;
-    --azul-escuro: #2a36a0;
-    --cinza: #8f8a8a;
+    --cor-de-fundo: #7ac4f5;
+    --cor-principal: #fff;
+    --cor-secundaria: #2a36a0;
+    --rodape: #8f8a8a;
     --font: 'Caveat', serif;
 }
 body{
